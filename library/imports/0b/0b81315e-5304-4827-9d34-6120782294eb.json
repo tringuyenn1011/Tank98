@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "powerup_grenade",
+    "texture": "6c5b04bf-fde0-41ec-aa9e-221519e26d9f",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      56,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

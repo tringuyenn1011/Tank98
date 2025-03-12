@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "tile1",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<tileset version=\"1.10\" tiledversion=\"1.10.2\" name=\"tile1\" tilewidth=\"14\" tileheight=\"14\" tilecount=\"112\" columns=\"28\">\r\n <image source=\"tile1.png\" width=\"392\" height=\"56\"/>\r\n</tileset>\r\n"
+}

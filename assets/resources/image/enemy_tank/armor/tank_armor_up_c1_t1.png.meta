@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8e60a415-6c4f-40ca-9636-a5d76573c4d0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 32,
+  "height": 32,
+  "platformSettings": {},
+  "subMetas": {
+    "tank_armor_up_c1_t1": {
+      "ver": "1.0.6",
+      "uuid": "a5a57c18-b41a-4b3b-a3f7-5e236f924d1d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8e60a415-6c4f-40ca-9636-a5d76573c4d0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 4,
+      "trimY": 1,
+      "width": 25,
+      "height": 30,
+      "rawWidth": 32,
+      "rawHeight": 32,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bonus_ship",
+    "texture": "8e436850-3dd7-425a-b9f4-361afe5d5c88",
+    "atlas": "",
+    "rect": [
+      4,
+      2,
+      51,
+      43
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      59,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gamescene",
+    "texture": "9acb3492-190e-40f1-b1e1-912a9bc3e647",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      766,
+      914
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      766,
+      915
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

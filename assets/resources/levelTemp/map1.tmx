@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="52" height="52" tilewidth="14" tileheight="14" infinite="0" nextlayerid="6" nextobjectid="46">
+ <tileset firstgid="1" source="../level/tile1.tsx"/>
+ <tileset firstgid="113" source="../level/trees1.tsx"/>
+ <layer id="1" name="bg1" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztlzduBDEMReW4voBDY3sdLuDQOK4v4NA4+wIO96/9GzUf2CUEUiIF6AEPU3Aw0kikOJPSYDCwYgkuwxW42mGc2YV7cB9OO4wzF/ASXsHrDuPMM3yBr/Ctwzhjnd9rcB1O4EaF50tY5/cBPIRH8LjC8yWs8/sG3sIZvKvwfAnr/H6HH/ATflV4voR3/4heP63jjHf/iF4/reOMdf6WEq1+tESrHy3R6keL9/iMd/1Z411/1njXnzXe+S+tF+d76/4jjcfzl9aL8711/5HG4/nz/wnD79+6/0jj8fz5/4Th92/df6TxpPlrGedbbKTzqffvg9bnI6P9/pLOp9J+VxpntN9f0vlU2u9K44z2fLLe39I4oz2frPe3NM54r2/0+imNj/pZjPf6jvpZjPf6RqsfLdHqR0u0+tESrX60RK2ffN+8a+3xM1b5m++bd609vjV5HTfhFtyGO0nen6jkdTyBp/AMnid5f6KS9+EePsBH+JT6359v+AN/4V+qvz//K4OrsQ==
+  </data>
+ </layer>
+ <layer id="2" name="bg2" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt0cEJACAMA0AX0z10/0F0AYsPEQt3EAL5phQAAAAAAAAAAABeqist6Gz6ygg6m90P2f853X/nnzsmXwYJcQ==
+  </data>
+ </layer>
+ <layer id="3" name="bg3" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzrcRgEAAA0HawLSBaQPTBqb/CMXEP3yyO3Ox1DQAAAAAAAAAAADAV5u61Keh8pcSxjSlOS2Vv5Swpi3t6aj8pYQzXelOzw97L2DLBEk=
+  </data>
+ </layer>
+ <layer id="4" name="grass" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt07kNw0AAA0G17F9+5dLFzA0ccDQwAzBnsssCAP/nkB2zU3ae/GWES3bNbtk6+csI9+yRPbPX5C8jvLNPtmXfuVeG0E83/XTTTzf9dNNPN/100083/XTTTzf9dNNPN/100083/QAAwM8OIO88QQ==
+  </data>
+ </layer>
+ <objectgroup id="5" name="objects">
+  <object id="31" name="pl1" x="250.026" y="686.005" width="42" height="42"/>
+  <object id="32" name="en1" x="-2.026" y="-0.005" width="42" height="42"/>
+  <object id="33" name="en2" x="348.026" y="0.0054167" width="42" height="42"/>
+  <object id="34" name="en3" x="684.026" y="0.0054167" width="42" height="42"/>
+  <object id="35" name="t1" x="229.026" y="105.005" width="42" height="42"/>
+  <object id="36" name="t2" x="117.026" y="399.005" width="42" height="42"/>
+  <object id="37" name="t3" x="453.026" y="343.005" width="42" height="42"/>
+  <object id="38" name="t4" x="565.026" y="567.005" width="42" height="42"/>
+  <object id="39" name="t5" x="663.026" y="287.005" width="42" height="42"/>
+  <object id="40" name="t6" x="397.026" y="203.005" width="42" height="42"/>
+  <object id="41" name="t7" x="551.026" y="7.00542" width="42" height="42"/>
+  <object id="42" name="t8" x="362.026" y="294.005" width="42" height="42"/>
+  <object id="43" name="t9" x="47.0261" y="217.005" width="42" height="42"/>
+  <object id="44" name="t10" x="5.02608" y="623.005" width="42" height="42"/>
+  <object id="45" name="home" x="334.026" y="672.005" width="56" height="56"/>
+ </objectgroup>
+</map>

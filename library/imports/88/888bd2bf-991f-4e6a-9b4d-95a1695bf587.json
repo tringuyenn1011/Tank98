@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "powerup_timer",
+    "texture": "07437d3c-bfa5-4d1a-9dc3-96320a396bfc",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      56,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

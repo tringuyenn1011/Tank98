@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Dragon_tex",
+    "texture": "b3e3bd0b-af8b-46e8-b609-d9eeedddf83c",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      113,
+      62
+    ],
+    "offset": [
+      -6.5,
+      0
+    ],
+    "originalSize": [
+      128,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

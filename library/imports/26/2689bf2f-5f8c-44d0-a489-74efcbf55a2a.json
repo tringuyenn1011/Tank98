@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "gamescene.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bg_hint_fire": {
+      "__uuid__": "0e968c70-95e4-4a86-b3af-722b63c02d7c"
+    },
+    "bg_hint_key": {
+      "__uuid__": "fead01a7-e070-4da5-9ab9-59ed12956755"
+    },
+    "bg_table": {
+      "__uuid__": "b44947dc-45e7-4d48-b573-1518906e78fd"
+    },
+    "hint_key_hover": {
+      "__uuid__": "92f7f408-7e66-4b04-8fb4-1c5ab67a73eb"
+    },
+    "input_ball": {
+      "__uuid__": "9428273a-26d4-4e35-a52d-f766a815a1fc"
+    },
+    "input_dock": {
+      "__uuid__": "f53eadbb-211c-4772-944c-c02c995f43f1"
+    },
+    "input_fire": {
+      "__uuid__": "a8114ed8-d233-488e-8506-15dc3e5a0453"
+    },
+    "input_stick": {
+      "__uuid__": "d09ff683-bdea-4f95-924a-8149357228a9"
+    },
+    "player01": {
+      "__uuid__": "8d789b86-e85c-4aff-8c8c-2437942d8b6c"
+    },
+    "player02": {
+      "__uuid__": "90bdff44-c0dd-44f7-b764-f6adc79b32b0"
+    },
+    "title_life_CN": {
+      "__uuid__": "f666ad15-3a15-4ab6-8c64-46bdd99d66ea"
+    },
+    "title_life_EN": {
+      "__uuid__": "7c8f0f81-28a9-40de-9e25-de540db02c5d"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tank_armor_up_c0_t1_f",
+    "texture": "d1beedb4-c6ae-402d-829d-05ca2b5f3320",
+    "atlas": "",
+    "rect": [
+      4,
+      1,
+      25,
+      30
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

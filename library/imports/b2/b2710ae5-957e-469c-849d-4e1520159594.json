@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dpad_down_left",
+    "texture": "df00d489-ccb5-4235-87b5-a8a24234220d",
+    "atlas": "",
+    "rect": [
+      6,
+      6,
+      189,
+      189
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

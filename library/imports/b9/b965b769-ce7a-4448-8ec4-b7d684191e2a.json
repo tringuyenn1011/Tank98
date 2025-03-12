@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tank_fast_up_c0_t2",
+    "texture": "5c678297-ddd0-4cab-8be2-d3fa7e850669",
+    "atlas": "",
+    "rect": [
+      3,
+      1,
+      26,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

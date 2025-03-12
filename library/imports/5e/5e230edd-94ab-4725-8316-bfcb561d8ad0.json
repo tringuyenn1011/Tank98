@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lives",
+    "texture": "dc1ae5c6-5216-4b6c-9e4b-cc9ac0f5883f",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      14,
+      16
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      16,
+      16
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

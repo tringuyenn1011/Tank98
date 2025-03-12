@@ -1,0 +1,68 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "configscene.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "btnArrowLeft": {
+      "__uuid__": "25881839-0a70-48f2-99c1-42994b2d3361"
+    },
+    "btnArrowLeft_hover": {
+      "__uuid__": "1ff70ce8-df76-4034-b659-04013ede2ebc"
+    },
+    "btnArrowRight": {
+      "__uuid__": "71459202-3f6d-4c60-aa49-d5b059d9ceeb"
+    },
+    "btnArrowRight_hover": {
+      "__uuid__": "805098a5-78d5-4565-8299-65b22a124cb9"
+    },
+    "btnBuy_CN": {
+      "__uuid__": "08045d65-09cf-491b-985b-3eddca437819"
+    },
+    "btnBuy_EN": {
+      "__uuid__": "c5e0c1f6-2b39-4d3e-bac4-eaff0aa047de"
+    },
+    "btnBuy_hover_CN": {
+      "__uuid__": "ed9c9ff1-e610-43e2-bdec-96021f9e9104"
+    },
+    "btnBuy_hover_EN": {
+      "__uuid__": "a2d0811a-deb6-44f9-a437-6f6249ae0f4f"
+    },
+    "btn_Cancel_CN": {
+      "__uuid__": "8406a1ec-9e9d-4351-837a-d923b88655d2"
+    },
+    "btn_Cancel_CN_hover": {
+      "__uuid__": "34abf16a-b2d3-4a07-b08b-ae92658ecd83"
+    },
+    "btn_Cancel_EN": {
+      "__uuid__": "e53dc61f-2c99-4123-b16f-a74370239905"
+    },
+    "btn_Cancel_EN_hover": {
+      "__uuid__": "7c795423-b9cc-4be5-9122-b7eb0811d491"
+    },
+    "btn_Cancel_hover_CN": {
+      "__uuid__": "de259df9-8898-49c9-852c-7d8894be54bb"
+    },
+    "btn_Cancel_hover_EN": {
+      "__uuid__": "82a6c372-a85b-4a59-ab3b-6efea228c9a2"
+    },
+    "btn_Ok_CN": {
+      "__uuid__": "13691b3c-e979-43c6-aae9-1e49ddef737e"
+    },
+    "btn_Ok_EN": {
+      "__uuid__": "08c8b607-222b-4f2a-af68-5930b8cda552"
+    },
+    "btn_Ok_hover_CN": {
+      "__uuid__": "57f77627-a464-4c9b-a1a6-8ac736ac437a"
+    },
+    "btn_Ok_hover_EN": {
+      "__uuid__": "6b581a49-4d8d-458d-b323-cca859bfac03"
+    },
+    "configscene": {
+      "__uuid__": "abb65d70-7473-4131-85b4-294afcf5aa2d"
+    },
+    "star": {
+      "__uuid__": "28a65880-6111-49a3-9d4a-3c530aaa39fe"
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "images.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "IP": {
+      "__uuid__": "0b521846-1902-487e-8dd6-7325e33e9ae1"
+    },
+    "bullet": {
+      "__uuid__": "f3ae92de-2a2d-40ab-88ce-a83eccc5bca5"
+    },
+    "en1": {
+      "__uuid__": "f8afac40-d29f-4afa-8ec4-8ea298386637"
+    },
+    "en1r": {
+      "__uuid__": "72860f36-3214-4686-8238-caf91795cff8"
+    },
+    "en2": {
+      "__uuid__": "1c8cdb12-4ace-4570-9f4d-38232a3089d3"
+    },
+    "en2r": {
+      "__uuid__": "51557d68-e81a-4b7a-a4e4-ccceef95e0b6"
+    },
+    "en3": {
+      "__uuid__": "75a59685-71dc-424d-9de1-e0ff0bf26e5a"
+    },
+    "en5": {
+      "__uuid__": "b14780bc-e882-49e7-90d2-7912c3e5fe79"
+    },
+    "en6": {
+      "__uuid__": "71485d25-874b-43a8-af9a-83b0cd34bef7"
+    },
+    "en7": {
+      "__uuid__": "2c4da7f1-486b-4fcc-96b8-d33db1311942"
+    },
+    "enemy": {
+      "__uuid__": "337c3996-fa21-44f7-ac9b-ddba0d419d99"
+    },
+    "explode-1": {
+      "__uuid__": "4e8d2cb5-8cde-4453-8c5c-dc68e5d87d58"
+    },
+    "explode-2": {
+      "__uuid__": "ba309f11-d223-4358-87da-a991cb7d22d0"
+    },
+    "explode-3": {
+      "__uuid__": "ee90b7dd-2463-4fdb-a74e-89c6565d3858"
+    },
+    "explode1": {
+      "__uuid__": "bde94de2-a740-4705-9ba1-33bb0b302383"
+    },
+    "explode2": {
+      "__uuid__": "bb5fd1b0-a1af-4f2e-b12f-b6be382c5259"
+    },
+    "flag": {
+      "__uuid__": "a81c772f-c04a-4f41-bf35-51385c0a4fca"
+    },
+    "gamedone": {
+      "__uuid__": "30bd6fb7-7ce8-4530-948c-a03e12db34aa"
+    },
+    "home": {
+      "__uuid__": "721e1621-1c0f-4ed1-aa01-aa1a2a5a4812"
+    },
+    "home2": {
+      "__uuid__": "1cec5f68-bce1-43a8-be27-f2fb61529565"
+    },
+    "p1-a-cell": {
+      "__uuid__": "1a6d65c0-b823-4c94-a51a-42199226bfc0"
+    },
+    "p1-a": {
+      "__uuid__": "8218f9e8-c152-4f56-82ec-09616ee112e6"
+    },
+    "p1-b": {
+      "__uuid__": "fb4d3ba9-b944-43ac-9c6d-aa7033eac39b"
+    },
+    "p1-c": {
+      "__uuid__": "ef1280eb-519a-421f-9430-660b400ba29f"
+    },
+    "p1": {
+      "__uuid__": "335428d9-d15b-453a-ad02-d7181c9056bd"
+    },
+    "p2-a-cell": {
+      "__uuid__": "982831ca-4e37-44e4-bf3f-25f6c4408646"
+    },
+    "p2-a": {
+      "__uuid__": "6d2271aa-0cf2-47d8-bfee-5f6d480c7f28"
+    },
+    "p2-b": {
+      "__uuid__": "e51ef850-1208-466c-9190-5f57991f56b9"
+    },
+    "p2-c": {
+      "__uuid__": "3db03a0c-f253-4488-b016-f564d20d35fa"
+    },
+    "p2": {
+      "__uuid__": "81a854f2-b9e9-493b-99b4-840fd3a45d95"
+    },
+    "props-mine": {
+      "__uuid__": "429e57e1-60f2-4d02-b9e2-f8ff76f91311"
+    },
+    "props-protect": {
+      "__uuid__": "fb5fe083-60bb-4986-a6ad-4fc9f2f5611b"
+    },
+    "props-spade": {
+      "__uuid__": "6c6d777e-1875-4bef-823f-3f29281251bf"
+    },
+    "props-start": {
+      "__uuid__": "5f4dd87f-ff6f-4b48-978a-d7e542319d87"
+    },
+    "props-tank": {
+      "__uuid__": "817b2b78-30db-4273-a292-76553b6a91bc"
+    },
+    "props-timer": {
+      "__uuid__": "ec3cde7d-8768-4dc2-9aaf-f15c3a65be62"
+    },
+    "shield1": {
+      "__uuid__": "3e1a151b-7460-4e46-b866-fabccc69f744"
+    },
+    "shield2": {
+      "__uuid__": "979e412a-38ad-49cf-9e16-56037ff6e9d1"
+    },
+    "xing1": {
+      "__uuid__": "42bf871a-1d3f-46f7-baf7-41bdfa56e8c7"
+    },
+    "xing2": {
+      "__uuid__": "bea1cc7d-f489-4d92-bbdc-3bcad7c7626c"
+    },
+    "xing3": {
+      "__uuid__": "6abba465-cd27-45c9-a4e7-ac5bcbb82f32"
+    },
+    "xing4": {
+      "__uuid__": "7d44a763-213e-479c-ac40-645852b35964"
+    }
+  }
+}

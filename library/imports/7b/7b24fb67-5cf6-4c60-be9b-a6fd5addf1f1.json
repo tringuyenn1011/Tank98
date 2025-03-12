@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tank_player1_up_c0_t2_s2",
+    "texture": "ef54957d-57b2-4542-8348-6203bf4dd1be",
+    "atlas": "",
+    "rect": [
+      3,
+      1,
+      26,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

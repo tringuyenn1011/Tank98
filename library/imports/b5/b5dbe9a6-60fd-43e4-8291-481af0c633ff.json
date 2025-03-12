@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Player_tex",
+    "texture": "82d78135-c23a-43b3-a7ad-d85e03ac61c0",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      62,
+      44
+    ],
+    "offset": [
+      0,
+      9
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

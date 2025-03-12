@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tank_power_up_c0_t2",
+    "texture": "82129388-1237-449f-b6af-e2ce7cc14602",
+    "atlas": "",
+    "rect": [
+      3,
+      1,
+      26,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

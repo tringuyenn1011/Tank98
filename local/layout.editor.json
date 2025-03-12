@@ -1,0 +1,127 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": 0,
+      "y": 0,
+      "width": 1366,
+      "height": 768,
+      "layout": {
+        "type": "dock-h",
+        "children": [
+          {
+            "width": 350,
+            "height": 650,
+            "type": "dock-v",
+            "children": [
+              {
+                "width": 350,
+                "height": 226,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ]
+              },
+              {
+                "width": 350,
+                "height": 420.984375,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "assets"
+                ]
+              }
+            ]
+          },
+          {
+            "width": 690,
+            "height": 650,
+            "type": "dock-v",
+            "children": [
+              {
+                "width": 690,
+                "height": 358,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "scene"
+                ]
+              },
+              {
+                "width": 690,
+                "height": 289,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "console",
+                  "timeline",
+                  "game-window"
+                ]
+              }
+            ]
+          },
+          {
+            "width": 304,
+            "height": 650,
+            "type": "panel",
+            "active": 0,
+            "children": [
+              "inspector",
+              "cocos-services"
+            ]
+          }
+        ]
+      },
+      "panels": [
+        "hierarchy",
+        "assets",
+        "scene",
+        "console",
+        "timeline",
+        "game-window",
+        "inspector",
+        "cocos-services"
+      ]
+    }
+  },
+  "panels": {
+    "project-settings": {
+      "x": 491,
+      "y": 72,
+      "width": 600,
+      "height": 565
+    },
+    "preferences": {
+      "x": 395,
+      "y": 104,
+      "width": 600,
+      "height": 565
+    },
+    "sprite-editor": {
+      "x": 425,
+      "y": 104,
+      "width": 516,
+      "height": 539
+    },
+    "builder": {
+      "x": 425,
+      "y": 4,
+      "width": 670,
+      "height": 739
+    }
+  },
+  "panelLabelWidth": {
+    "preferences": null,
+    "inspector": null,
+    "builder": null,
+    "project-settings": null
+  },
+  "panelLabelWidth.preferences": null,
+  "panelLabelWidth.inspector": null,
+  "panelLabelWidth.builder": null,
+  "panelLabelWidth.project-settings": null
+}

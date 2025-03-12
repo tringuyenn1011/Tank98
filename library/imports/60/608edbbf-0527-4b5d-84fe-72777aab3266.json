@@ -1,0 +1,98 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "menuscene.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bg_drop": {
+      "__uuid__": "21db7bd4-810a-43e5-b5f8-bd09316c442e"
+    },
+    "btnArrowLeft": {
+      "__uuid__": "7495e555-99c6-49e4-a3ee-4415eae656fd"
+    },
+    "btnArrowLeft_hover": {
+      "__uuid__": "536fe276-0132-4df4-b3d2-8b5ce54bc5e2"
+    },
+    "btnArrowRight": {
+      "__uuid__": "1e6407a6-dc11-4aae-bfb8-9186cabd3dde"
+    },
+    "btnArrowRight_hover": {
+      "__uuid__": "7fd604d4-729e-4d5f-abc1-9d7901506330"
+    },
+    "btnClose": {
+      "__uuid__": "2684cadc-0648-41bc-bfb2-ca7c300d93ff"
+    },
+    "btnClose_hover": {
+      "__uuid__": "35686341-1a0a-4f8d-8758-a66aa58471ba"
+    },
+    "btnDrop": {
+      "__uuid__": "518f263e-e0a3-4491-85fd-034d4e2d15a0"
+    },
+    "btnDrop_hover": {
+      "__uuid__": "84c1a1ec-dad9-4502-8ae4-9ca0bdf5fc39"
+    },
+    "btnForbidSign": {
+      "__uuid__": "d42d7f8d-a9fe-4552-89e6-8b27b0a02d3f"
+    },
+    "btnGameSingle_CN": {
+      "__uuid__": "bf545a99-a351-44ec-b940-2b6ce1e284cf"
+    },
+    "btnGameSingle_EN": {
+      "__uuid__": "ad33d7db-6cdf-4cbf-a393-c3edb503ecc6"
+    },
+    "btnGameSingle_hover_CN": {
+      "__uuid__": "42841225-254a-4d1d-95ca-43e533b6568b"
+    },
+    "btnGameSingle_hover_EN": {
+      "__uuid__": "01e48b10-29ee-457f-852b-00965e46c247"
+    },
+    "btnMusic": {
+      "__uuid__": "0c84595e-4b03-40dc-bccc-cb6c05661e81"
+    },
+    "btnMusic_hover": {
+      "__uuid__": "c3f703db-f9c5-40f7-bede-26b1e716ddf1"
+    },
+    "btnSound": {
+      "__uuid__": "de5ef51e-bf83-45cf-a10d-968c93822f59"
+    },
+    "btnSound_hover": {
+      "__uuid__": "1443bef5-aae0-4128-b7fc-5b5824069cb2"
+    },
+    "btnWifiVS_CN": {
+      "__uuid__": "52bc035d-3157-4c50-8fa2-9f8c77d16b76"
+    },
+    "btnWifiVS_EN": {
+      "__uuid__": "0686fef9-6ca1-467b-b33a-ce9b4c6f81a7"
+    },
+    "btnWifiVS_hover_CN": {
+      "__uuid__": "48d62e9f-02be-448a-a18f-c0940c797aa2"
+    },
+    "btnWifiVS_hover_EN": {
+      "__uuid__": "3611eac5-fcec-4f7b-b8dc-432adbd32eb9"
+    },
+    "game_title_CN": {
+      "__uuid__": "1799e5ea-7493-4440-88e1-6c47631368a0"
+    },
+    "game_title_EN": {
+      "__uuid__": "b92fa37f-f8bb-4787-b457-7476a877c2f0"
+    },
+    "level_CN": {
+      "__uuid__": "ff2f18ac-ba84-4076-82ac-5f2b763aac73"
+    },
+    "level_EN": {
+      "__uuid__": "e52e126a-36a3-47f1-9462-835e87cd128f"
+    },
+    "moregames": {
+      "__uuid__": "21b6e68f-2817-4ab7-ad85-bd62e6085110"
+    },
+    "moregames_hover": {
+      "__uuid__": "24eb67f8-e1a2-41fc-af7a-ccb3a568c749"
+    },
+    "rank": {
+      "__uuid__": "daf7d162-f4ee-43c8-bedb-05f8d6f5afa0"
+    },
+    "rank_hover": {
+      "__uuid__": "035e54e5-01d8-44f7-a015-49d12e6a3ff3"
+    }
+  }
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "enemy_tank",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "enemy_tank",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__id__": 4
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 43.75,
+      "height": 52.5
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_spriteFrame": {
+      "__uuid__": "6bf6708d-40dc-442b-8df0-c13f4e60addb"
+    },
+    "_type": 0,
+    "_sizeMode": 0,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_atlas": null,
+    "_id": ""
+  },
+  {
+    "__type__": "492c3p9P+dMD4ghf4lXCLvE",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "tank_1": [
+      {
+        "__uuid__": "7953a6ac-ece4-4e6a-aaee-83635623c77a"
+      },
+      {
+        "__uuid__": "2ba50a16-dc0b-4903-8c25-5638a520fc20"
+      }
+    ],
+    "tank_hong_1": [
+      {
+        "__uuid__": "a0d209e4-5f1b-43c4-b4aa-6a85d30cda9c"
+      },
+      {
+        "__uuid__": "5c20fa1d-1057-4f92-ae23-c8bf2c8c7dd9"
+      }
+    ],
+    "tank_2": [
+      {
+        "__uuid__": "7bf879ba-13ea-4003-af19-86c29917bd48"
+      },
+      {
+        "__uuid__": "b965b769-ce7a-4448-8ec4-b7d684191e2a"
+      }
+    ],
+    "tank_hong_2": [
+      {
+        "__uuid__": "bb3eb51b-d6fa-499b-84f0-1716de4bd448"
+      },
+      {
+        "__uuid__": "5469ef5f-96c1-40b2-b62c-50cb1301882f"
+      }
+    ],
+    "tank_3": [
+      {
+        "__uuid__": "df27710c-c3ad-4da6-9695-8402bd6113e0"
+      },
+      {
+        "__uuid__": "4b006939-d033-4b79-9996-250f0e9e7a5b"
+      }
+    ],
+    "tank_hong_3": [
+      {
+        "__uuid__": "f2a8b0ba-626a-4bcc-8757-349d71aca07f"
+      },
+      {
+        "__uuid__": "4bf80f48-068e-4613-82ad-44c23a99a49e"
+      }
+    ],
+    "tank_4_1": [
+      {
+        "__uuid__": "6bf6708d-40dc-442b-8df0-c13f4e60addb"
+      },
+      {
+        "__uuid__": "725067d7-97a4-4eb6-85f2-d079fd3c0019"
+      }
+    ],
+    "tank_4_2": [
+      {
+        "__uuid__": "a5a57c18-b41a-4b3b-a3f7-5e236f924d1d"
+      },
+      {
+        "__uuid__": "1b98ebed-5944-4cb6-add3-197083322a07"
+      }
+    ],
+    "tank_4_3": [
+      {
+        "__uuid__": "4eb28a98-7edf-4966-a074-413e167dddeb"
+      },
+      {
+        "__uuid__": "d6073c12-0b8a-4127-a667-388c9ff37343"
+      }
+    ],
+    "tank_hong_4": [
+      {
+        "__uuid__": "b650b88f-d808-46ed-99a1-67159533d527"
+      },
+      {
+        "__uuid__": "56fe1aea-fccb-4640-a991-bccd50dccf8b"
+      }
+    ],
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "2d714c43-1d37-480f-8f22-6180cb8c1af2"
+    },
+    "fileId": "5f2zFfOH9LALTSLUF9qD4G",
+    "sync": false
+  }
+]

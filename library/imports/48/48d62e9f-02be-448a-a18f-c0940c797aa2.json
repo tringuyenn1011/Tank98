@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnWifiVS_hover_CN",
+    "texture": "c60b3dd0-df42-46a9-b3a0-4c18ae46fb4b",
+    "atlas": "608edbbf-0527-4b5d-84fe-72777aab3266",
+    "rect": [
+      0,
+      430,
+      235,
+      58
+    ],
+    "offset": [
+      2,
+      0
+    ],
+    "originalSize": [
+      301,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

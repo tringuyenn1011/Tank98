@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "playgameClose",
+    "texture": "7f7130e6-0212-4593-ac41-bd27a2d107ab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      167,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      167,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

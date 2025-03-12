@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "Dragon_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\"width\":128,\"SubTexture\":[{\"frameWidth\":11,\"y\":42,\"frameHeight\":21,\"width\":11,\"frameX\":0,\"height\":21,\"name\":\"parts/tailTip\",\"frameY\":0,\"x\":24},{\"width\":11,\"y\":12,\"height\":9,\"name\":\"parts/armUpperL\",\"x\":87},{\"width\":5,\"y\":1,\"height\":8,\"name\":\"parts/armL\",\"x\":105},{\"width\":10,\"y\":23,\"height\":8,\"name\":\"parts/handL\",\"x\":97},{\"frameWidth\":20,\"y\":38,\"frameHeight\":18,\"width\":20,\"frameX\":0,\"height\":18,\"name\":\"parts/legL\",\"frameY\":0,\"x\":37},{\"frameWidth\":24,\"y\":1,\"frameHeight\":35,\"width\":24,\"frameX\":0,\"height\":35,\"name\":\"parts/body\",\"frameY\":0,\"x\":37},{\"width\":22,\"y\":1,\"height\":28,\"name\":\"parts/tail\",\"x\":63},{\"width\":21,\"y\":42,\"height\":17,\"name\":\"parts/clothes1\",\"x\":1},{\"width\":12,\"y\":31,\"height\":28,\"name\":\"parts/hair\",\"x\":83},{\"frameWidth\":34,\"y\":1,\"frameHeight\":39,\"width\":34,\"frameX\":0,\"height\":39,\"name\":\"parts/head\",\"frameY\":0,\"x\":1},{\"width\":3,\"y\":58,\"height\":5,\"name\":\"parts/eyeL\",\"x\":51},{\"frameWidth\":4,\"y\":56,\"frameHeight\":6,\"width\":4,\"frameX\":0,\"height\":6,\"name\":\"parts/eyeR\",\"frameY\":0,\"x\":75},{\"frameWidth\":18,\"y\":31,\"frameHeight\":23,\"width\":18,\"frameX\":0,\"height\":23,\"name\":\"parts/legR\",\"frameY\":0,\"x\":63},{\"width\":16,\"y\":1,\"height\":9,\"name\":\"parts/armUpperR\",\"x\":87},{\"frameWidth\":5,\"y\":20,\"frameHeight\":8,\"width\":5,\"frameX\":0,\"height\":8,\"name\":\"parts/armR\",\"frameY\":0,\"x\":109},{\"width\":10,\"y\":12,\"height\":6,\"name\":\"parts/handR\",\"x\":100},{\"frameWidth\":12,\"y\":58,\"frameHeight\":4,\"width\":12,\"frameX\":0,\"height\":4,\"name\":\"parts/beardL\",\"frameY\":0,\"x\":37},{\"width\":14,\"y\":56,\"height\":4,\"name\":\"parts/beardR\",\"x\":59}],\"height\":64,\"name\":\"Dragon\",\"imagePath\":\"Dragon_tex.png\"}",
+  "_texture": {
+    "__uuid__": "b3e3bd0b-af8b-46e8-b609-d9eeedddf83c"
+  },
+  "texture": {
+    "__uuid__": "b3e3bd0b-af8b-46e8-b609-d9eeedddf83c"
+  },
+  "_textureAtlasData": null
+}

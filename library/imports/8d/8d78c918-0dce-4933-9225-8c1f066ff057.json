@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.TiledMapAsset",
+  "_name": "temp",
+  "_objFlags": 0,
+  "_native": "",
+  "tmxXmlStr": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<map version=\"1.10\" tiledversion=\"1.10.2\" orientation=\"orthogonal\" renderorder=\"right-down\" width=\"26\" height=\"26\" tilewidth=\"28\" tileheight=\"28\" infinite=\"0\" nextlayerid=\"6\" nextobjectid=\"50\">\r\n <tileset firstgid=\"1\" source=\"tile1.tsx\"/>\r\n <layer id=\"3\" name=\"bg1\" width=\"26\" height=\"26\">\r\n  <data encoding=\"base64\" compression=\"zlib\">\r\n   eJxjYBgFIxkwAzHLILCPkY5uGAWDGzCTKE4uECRRnBLAToBPijkgzIFDXhRJDTuUT6y5HEi0KBSL4bFHlAh12PSJkahnFIyC4QwYoZiJgfR6kJT6G2Q2NxDzkGAPzHxQmShEpB5+IJYEYikomxgAMx8ATlwCfA==\r\n  </data>\r\n </layer>\r\n <layer id=\"4\" name=\"bg2\" width=\"26\" height=\"26\">\r\n  <data encoding=\"base64\" compression=\"zlib\">\r\n   eJxjYBgFo2AUjIJRMApGwSgYBfQGzEDMgkTT0h5sbGoDQRxsYgAAI8AANw==\r\n  </data>\r\n </layer>\r\n <layer id=\"5\" name=\"bg3\" width=\"26\" height=\"26\" visible=\"0\" locked=\"1\">\r\n  <data encoding=\"base64\" compression=\"zlib\">\r\n   eJxjYBgFo2AUjIJRMApGwSgYBcMZ8AIxHx3skQZiGTL0AQAm0ABT\r\n  </data>\r\n </layer>\r\n <layer id=\"1\" name=\"grass\" width=\"26\" height=\"26\">\r\n  <data encoding=\"base64\" compression=\"zlib\">\r\n   eJztlsEKACAIQ73kD9T/f2tBCDIQglanPRjeJurBmW3akqd6S+XTl0aqt6BP9A2xwT0N48yBxFyse5z2E0IIIX7w67+x8w3ioFf/tModzNyWMxTCzG3hlf0m/EwCbg==\r\n  </data>\r\n </layer>\r\n <objectgroup id=\"2\" name=\"objects\">\r\n  <object id=\"20\" name=\"pl1\" x=\"253.564\" y=\"687.962\" width=\"42\" height=\"42\"/>\r\n  <object id=\"21\" name=\"en1\" x=\"1.33333\" y=\"1.33333\" width=\"42.0385\" height=\"42.0385\"/>\r\n  <object id=\"22\" name=\"en2\" x=\"351.654\" y=\"1.33333\" width=\"42.0385\" height=\"42.0385\"/>\r\n  <object id=\"23\" name=\"en3\" x=\"687.962\" y=\"1.33333\" width=\"42.0385\" height=\"42.0385\"/>\r\n  <object id=\"24\" name=\"t1\" x=\"232.545\" y=\"106.429\" width=\"42.0385\" height=\"42.0385\"/>\r\n  <object id=\"25\" name=\"t2\" x=\"120.442\" y=\"400.699\" width=\"42.0385\" height=\"42.0385\"/>\r\n  <object id=\"26\" name=\"t3\" x=\"456.75\" y=\"344.647\" width=\"42.0385\" height=\"42.0385\"/>\r\n  <object id=\"27\" name=\"t4\" x=\"568.853\" y=\"568.853\" width=\"42.0385\" height=\"42.0385\"/>\r\n  <object id=\"28\" name=\"t5\" x=\"666.942\" y=\"288.596\" width=\"42.0385\" height=\"42.0385\"/>\r\n  <object id=\"29\" name=\"t6\" x=\"400.699\" y=\"204.519\" width=\"42.0385\" height=\"42.0385\"/>\r\n  <object id=\"30\" name=\"t7\" x=\"554.84\" y=\"8.33974\" width=\"42.0385\" height=\"42.0385\"/>\r\n  <object id=\"31\" name=\"t8\" x=\"365.667\" y=\"295.603\" width=\"42.0385\" height=\"42.0385\"/>\r\n  <object id=\"32\" name=\"t9\" x=\"50.3782\" y=\"218.532\" width=\"42.0385\" height=\"42.0385\"/>\r\n  <object id=\"33\" name=\"t10\" x=\"8.33974\" y=\"624.904\" width=\"42\" height=\"42\"/>\r\n  <object id=\"34\" name=\"home\" x=\"337.641\" y=\"673.949\" width=\"56\" height=\"56\"/>\r\n </objectgroup>\r\n</map>\r\n",
+  "textures": [
+    {
+      "__uuid__": "ac552613-ecf3-4437-b222-98db8e688004"
+    }
+  ],
+  "textureNames": [
+    "tile1.png"
+  ],
+  "textureSizes": [
+    {
+      "__type__": "cc.Size",
+      "width": 392,
+      "height": 56
+    }
+  ],
+  "imageLayerTextures": [],
+  "imageLayerTextureNames": [],
+  "tsxFiles": [
+    {
+      "__uuid__": "6d2fedef-fb6b-4c2e-bdb9-26983b6988a2"
+    }
+  ],
+  "tsxFileNames": [
+    "tile1.tsx"
+  ]
+}

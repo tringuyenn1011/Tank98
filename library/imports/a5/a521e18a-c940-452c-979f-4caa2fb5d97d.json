@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "points_300",
+    "texture": "1a26db8b-18db-42a1-a9d1-92cd6cfaaed2",
+    "atlas": "",
+    "rect": [
+      2,
+      9,
+      28,
+      14
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

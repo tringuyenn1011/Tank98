@@ -1,0 +1,1 @@
+{"width":64,"SubTexture":[{"frameWidth":56,"y":1,"frameHeight":56,"width":46,"frameX":-5,"height":44,"name":"tank_player1_up_c0_t1","frameY":-7,"x":1},{"frameWidth":21,"y":1,"frameHeight":14,"width":14,"frameX":-4,"height":11,"name":"bullet","frameY":-2,"x":49}],"height":64,"name":"Player","imagePath":"Player_tex.png"}
